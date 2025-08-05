@@ -11,8 +11,8 @@
     
 	<license>MIT</license>
 	<keywords>audio,fx,music,mp3,game,rjfun</keywords>
-    <repo>https://github.com/floatinghotpot/cordova-plugin-nativeaudio.git</repo>
-    <issue>https://github.com/floatinghotpot/cordova-plugin-nativeaudio/issues</issue>
+    <repo>https://github.com/aberkie/cordova-plugin-nativeaudio.git</repo>
+    <issue>https://github.com/aberkie/cordova-plugin-nativeaudio/issues</issue>
 
 	<engines>
 	    <engine name="cordova" version=">=3.5" />
